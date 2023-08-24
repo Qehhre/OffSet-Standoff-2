@@ -1,0 +1,76 @@
+==============================
+! Full OffSet by Qehhre !
+! t.me/Qehhre !
+! t.me/Pablo_Tap !
+! Telegram - @WhyQehhre !
+==============================
+OffSet For Standoff 2 0.24.3
+==============================
+= Anti Flash =
+= OffSet: 0x1D2E984 =
+= Bytes: 0xC0035FD6 =
+==============================
+= Anti HE =
+= OffSet: 0x1D355F0 =
+= Bytes: 0xC0035FD6 =
+==============================
+= No Recoil =
+= OffSet: 0x1D21528 =
+= Bytes: 0xC0035FD6 =
+==============================
+= Infinity Ammo =
+= OffSet: 0x1E65540 =
+= Bytes: 0xC0035FD6 =
+==============================
+= Wall Shot =
+= OffSet: 0x1D1BD58 =
+= Bytes: 0x00F0271EC0035FD6 =
+==============================
+= Fire Rate =
+= OffSet: 0x1D215B0 =
+= Bytes: 0xC0035FD6 =
+==============================
+= Friendly Fire =
+= OffSet: 0x1B2B658 =
+= Bytes: 0x20008052C0035FD6 =
+==============================
+= Infinity Jump =
+= OffSet: 0x34D7D10 =
+= Bytes: 0x20008052C0035FD6 =
+==============================
+= Money Hack =
+= OffSet: 0x1D636AC =
+= Bytes: 0x00008052C0035FD6 =
+==============================
+= Always Respawn =
+= OffSet: 0x1DE9484 =
+= Bytes: 0x20008052C0035FD6 =
+==============================
+HOOK For Standoff 2 0.24.3
+==============================
+HOOK(ENCRYPTOFFSET("0x1CF4E4C"), new_skins, old_skins); //0.24.3
+
+HOOK(ENCRYPTOFFSET("0x1CF6C48"), new_knife, old_knife); //0.24.3
+
+HOOK(ENCRYPTOFFSET("0x1D3F5B0"), get_gloves, old_get_gloves); //0.24.3
+==============================
+PatchOffSet For Standoff 2 0.24.3 [Anti Ban]
+==============================
+patchOffset(0x1EB2B30, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB26C0, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB3164, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB2FB8, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB246C, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB3814, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB2D58, "0xC0035FD6"); //0.24.3
+patchOffset(0x24DAAF8, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB4224, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB3430, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB3A4C, "0xC0035FD6"); //0.24.3
+patchOffset(0x1EB35B8, "0xC0035FD6"); //0.24.3
+==============================
+! Full OffSet by Qehhre !
+! t.me/Qehhre !
+! t.me/Pablo_Tap !
+! Telegram - @WhyQehhre !
+==============================
